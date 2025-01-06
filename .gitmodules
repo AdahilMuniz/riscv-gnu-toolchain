@@ -1,6 +1,6 @@
 [submodule "binutils"]
 	path = binutils
-	url = git@github.com:AdahilMuniz/binutils-riscv-customized-frozen.git
+	url = https://github.com/AdahilMuniz/binutils-riscv-customized-frozen.git
 	branch = binutils-2_43-branch
 	shallow = true
 [submodule "gcc"]
